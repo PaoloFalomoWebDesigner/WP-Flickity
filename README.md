@@ -1,3 +1,6 @@
+PROJECT MOVED TO GITLAB
+https://gitlab.com/paolofalomo/wp-flickity
+
 # WP-Flickity
 ## Official Wordpress [Flickity Slider](http://flickity.metafizzy.co/) Plugin
 
